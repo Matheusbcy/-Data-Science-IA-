@@ -7,7 +7,7 @@ Este projeto tem como objetivo aplicar técnicas de redução de dimensionalidad
 ## 📁 Estrutura do Projeto
 
 ├── cover_type_num.pkl  
-├── dados_reducao_dimensional.ipynb  
+├── dimensionalidade.ipynb  
 └── README.md  
 
 ---
