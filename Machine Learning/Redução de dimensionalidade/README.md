@@ -1,4 +1,4 @@
-# Parte 5.6 - Tópicos complementares - Redução de dimensionalidade
+Redução de dimensionalidade
 
 ## Carregar dados
 
