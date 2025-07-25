@@ -11,7 +11,7 @@ Este projeto implementa um sistema de Geração Aumentada por Recuperação (RAG
 * **Geração Aumentada:** Utilização de um LLM (ex: Llama 3) para gerar respostas informativas, enriquecidas pelo contexto recuperado.
 * **Interface Simples:** Demonstração da invocação do sistema com uma pergunta direta.
 
---
+## 🔑 Autorização
 
 O projeto requer um token de autenticação do Hugging Face para acessar o modelo Llama 3.
 
