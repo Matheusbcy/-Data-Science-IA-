@@ -4,9 +4,13 @@ Uma aplicação web desenvolvida com Streamlit e integrada a modelos de linguage
 
 ---
 
-## Assista a demonstração
-[![Assista ao vídeo](https://img.youtube.com/vi/ygDe2KKxdlI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ygDe2KKxdlI&ab_channel=MatheusFreitas)
+## 🎥 Demonstração em Vídeo
 
+🎬 Assista no YouTube: https://www.youtube.com/watch?v=abc123XYZ  
+
+Clique na imagem abaixo para assistir ao vídeo de demonstração no YouTube (irá te levar para outra guia)
+
+[![Assista ao vídeo](https://img.youtube.com/vi/ygDe2KKxdlI/maxresdefault.jpg)](https://www.youtube.com/watch?v=ygDe2KKxdlI&ab_channel=MatheusFreitas)
 
 
 ## 📋 Descrição
