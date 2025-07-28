@@ -4,6 +4,9 @@ Uma aplicação web desenvolvida com Streamlit e integrada a modelos de linguage
 
 ---
 
+[![Assista ao vídeo](https://wsib2u.com.br/wp-content/uploads/2021/02/chatbot-vantagens-investimento-marketing-digital.png)](https://www.youtube.com/watch?v=ygDe2KKxdlI&ab_channel=MatheusFreitas)
+
+
 ## 📋 Descrição
 
 Este projeto tem como objetivo fornecer um assistente virtual capaz de:
