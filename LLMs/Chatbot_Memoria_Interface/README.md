@@ -6,7 +6,7 @@ Uma aplicação web desenvolvida com Streamlit e integrada a modelos de linguage
 
 ## 🎥 Demonstração em Vídeo
 
-🎬 Assista no YouTube: https://www.youtube.com/watch?v=abc123XYZ  
+🎬 Assista no YouTube: https://www.youtube.com/watch?v=ygDe2KKxdlI&ab_channel=MatheusFreitas 
 
 Clique na imagem abaixo para assistir ao vídeo de demonstração no YouTube (irá te levar para outra guia)
 
