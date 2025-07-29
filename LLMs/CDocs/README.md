@@ -21,19 +21,19 @@ Este é um projeto de assistente virtual construído com **Streamlit** e **LLMs*
 
 ### Tela Inicial
 A interface solicita o envio de um ou mais documentos em PDF.  
-![Tela Inicial](img1.png)
+![Tela Inicial](Media/img1.png)
 
 ### Exemplo de pergunta: "O que é inteligência artificial?"
 O sistema fornece uma resposta direta com referências ao PDF enviado.  
-![Exemplo IA](img2.png)
+![Exemplo IA](Media/img2.png)
 
 ### Utilizações da IA
 As respostas destacam onde o conteúdo foi encontrado no documento.  
-![Utilizações da IA](img3.png)
+![Utilizações da IA](Media/img3.png)
 
 ### O que estudar para projetar IAs
 O sistema responde com base nas páginas relevantes do PDF.  
-![Estudos para IA](img4.png)
+![Estudos para IA](Media/img4.png)
 
 ---
 
