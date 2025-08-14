@@ -1,4 +1,4 @@
-# 📚 Manual ERP - Assistente Virtual com ChatGPT e Streamlit 🤖
+# 📚 Manual ERP - Assistente Virtual com RAG e Streamlit 🤖
 
 ## 📝 Descrição
 
